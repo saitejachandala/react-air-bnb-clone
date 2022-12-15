@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+.hero-div {
+  overflow: hidden;
+}
+
+.hero-img {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 500px;
+  top: 50px;
+}
+
+.hero-header {
+  position: relative;
+  display: flex;
+  width: 347px;
+  height: 40px;
+  left: 40px;
+  top: 50px;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 110%;
+  color: #000000;
+}
+
+.hero-para {
+  position: relative;
+  height: 56px;
+  left: 45px;
+  top: 40px;
+  font-weight: 300;
+  font-size: 16px;
+  color: #222222;
+}
